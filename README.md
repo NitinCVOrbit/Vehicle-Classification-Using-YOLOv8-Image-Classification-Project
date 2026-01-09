@@ -24,5 +24,3 @@ It covers the complete workflow including dataset download, training, evaluation
 - Loss and accuracy visualization
 - Inference on unseen test images
 - Clean result visualization
-   ```bash
-   pip install ultralytics kagglehub
